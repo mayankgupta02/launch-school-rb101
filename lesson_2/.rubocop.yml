@@ -225,6 +225,9 @@ Layout/LineLength:
   - http
   - https
 
+Layout/TrailingWhitespace:
+  Enabled: false
+
 Metrics/MethodLength:
   Description: 'Avoid methods longer than 15 lines of code.'
   Enabled: true
